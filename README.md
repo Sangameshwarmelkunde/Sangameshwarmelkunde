@@ -4,10 +4,12 @@
 -  ***#Self-Learning*** Developer. 
 - 📱 Mobile App developer. 
 - ✅**CurrentlyWorkingOn**: 
-  - 📱Mobile App developement(Android 💙Flutter Recat-Native REST API 🔥Firebase..) 
-  - 💻🌐Full Stack Developement(Mysql Mongodb django PHP react...) 
-- ▶️⏸️**CurrentlyLearning**: - 📈Data Science*(Pandas Matplotlib ...) 
-  - 🤖AI(...) - Facecial Recognizations*(Mask detection...) 
+  - I.📱Mobile App developement(Android 💙Flutter Recat-Native REST API 🔥Firebase..) 
+  - II.💻🌐Full Stack Developement(Mysql Mongodb django PHP react...) 
+- ▶️⏸️**CurrentlyLearning**: 
+  - I.📈Data Science*(Pandas Matplotlib ...) 
+  - II.🤖AI(...) 
+  - III.Facecial Recognizations*(Mask detection...) 
 - 🔎 **LookingFor**: 
   -* 🏠 WFH Internship 
   -* Job 
