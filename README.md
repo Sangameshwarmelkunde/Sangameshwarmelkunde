@@ -21,7 +21,7 @@
 
 
 ### Recent Projects
-[![mylaravel](https://github-readme-stats.vercel.app/api/pin/?username=Sangameshwarmelkunde&repo=mylaravel)](https://github.com/TheAlphamerc/30DaysOfKotlinChallenge) 
+[![mylaravel](https://github-readme-stats.vercel.app/api/pin/?username=Sangameshwarmelkunde&repo=mylaravel)](https://github.com/Sangameshwarmelkunde/mylaravel) 
 
 
 ### Visitors Count
