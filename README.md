@@ -18,3 +18,12 @@
 
 ## ## Connect with me:
 <a title="meetyousoon" href="https://play.google.com/"><img src="https://github.com/aritraroy/social-icons/blob/master/play-store-icon.png?raw=true" width="60"></a> <a title="@msangam1999_46688" href="https://medium.com/@msangam1999_46688"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" width="60"></a> <a title="sangameshwarme2" href="https://twitter.com/sangameshwarme2"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a> <a title="sangameshwar-melkunde" href="https://linkedin.com/in/sangameshwar-melkunde"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a> <a title="s_a_n_g_a.mh24" href="https://instagram.com/s_a_n_g_a.mh24"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a> <a title="sangameshwar.melkunde" href="https://facebook.com/in/sangameshwar.melkunde"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
+
+
+### Recent Projects
+[![mylaravel](https://github-readme-stats.vercel.app/api/pin/?username=Sangameshwarmelkunde&repo=mylaravel)](https://github.com/TheAlphamerc/30DaysOfKotlinChallenge) 
+
+
+### Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/TheAlphamerc/count.svg" alt ="Loading">
