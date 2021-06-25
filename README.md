@@ -1,4 +1,4 @@
-### नमस्ते Developers 🙏 I'm [Sangameshwar](http://github.com/Sangammeshwarmelkunde) 
+### नमस्ते 🙏 I'm [Sangameshwar](http://github.com/Sangammeshwarmelkunde) 
 #### About myself: 
 - 🎓 Undergraduate student of 💻Computer Engineering. 
 -  ***#Self-Learning*** Developer. 
